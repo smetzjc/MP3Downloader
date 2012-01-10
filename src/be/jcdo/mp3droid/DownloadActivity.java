@@ -10,7 +10,7 @@ public class DownloadActivity extends Activity {
     @Override
     public void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
-        
+        // cool ca marche
         TextView textview = new TextView(this);
         textview.setText("This is the Download tab");
         setContentView(textview);
