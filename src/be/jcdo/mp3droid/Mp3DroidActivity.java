@@ -11,6 +11,7 @@ public class Mp3DroidActivity extends TabActivity {
     /** Called when the activity is first created. */
     @Override
     public void onCreate(Bundle savedInstanceState) {
+    	//test
         super.onCreate(savedInstanceState);
         setContentView(R.layout.main);
 
