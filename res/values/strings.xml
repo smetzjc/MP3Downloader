@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="hello">Hello World, Mp3DroidActivity!</string>
+    <string name="app_name">Mp3 Droid</string>
+    <string name="search">Search</string>
+    <string name="download">Download</string>
+    <string name="results">Results</string>
+    <string name="searchHint">Type your search here</string>
+
+</resources>
